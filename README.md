@@ -19,7 +19,7 @@
 
 * DBMS와 SQL
 
-  대부분의 현대 웹 프로그램의 영속성을 담당하는 DBMS(Database Management System)와 DBMS에서 데이터를 처리하기 위한 언어인 SQL에 대해 간단하게 알아봅니다. 본 활동에서는 무료이면서 쉽게 입문 가능한 MariaDB를 이용하여 진행합니다. SQL에 대해 어느정도 이해되었다면 사용자의 정보를 담는 스키마를 직접 설계해보고, 이에 대한 DDL(Data Definition Language)을 작성해봅니다.
+  대부분의 현대 웹 프로그램의 영속성을 담당하는 DBMS(Database Management System)와 그 중 한 종류인 RDBMS (Relational Database Management System)에서 데이터를 처리하기 위한 언어인 SQL에 대해 간단하게 알아봅니다. 본 활동에서는 무료이면서 쉽게 입문 가능한 RDBMS인 MariaDB를 이용하여 진행합니다. SQL에 대해 어느정도 이해되었다면 사용자의 정보를 담는 스키마를 직접 설계해보고, 이에 대한 DDL(Data Definition Language)을 작성해봅니다.
   
 * SQL Injection과 Prepared Statement
 
